@@ -1,20 +1,47 @@
-# 🌌 Welcome to My Universe! 🌟  
+# 🌌 Millkywaay! 🌟  
 
-Hi there! I'm **@millkywaay**, a tech enthusiast and lifelong learner passionate about pushing the boundaries of innovation. With a strong foundation in computer science and a knack for solving complex problems, I aim to create meaningful solutions that leave a lasting impact.  
+Hi there! I'm **@millkywaay**, a tech enthusiast with a passion for learning and building solutions that make a difference. I love diving into **Machine Learning**, **Data Analytics**, and **Web Development**, constantly exploring new tools and techniques to stay ahead in this fast-paced world.  
 
-## 🧑‍💻 About Me  
-- 🎓 **Explorer**: Always diving into the depths of Machine Learning, AI, and cutting-edge technologies.  
-- 💼 **Collaborator**: A believer in the power of teamwork to tackle challenges and bring ideas to life.  
-- 🌟 **Passion**: Crafting solutions to bridge the gap between ideas and implementation.  
+## 🌟 About Me  
+- 💻 **Developer**: I specialize in crafting user-friendly applications and solving data-driven challenges.  
+- 🌱 **Learner**: Always curious and learning about cutting-edge technologies, including Machine Learning and AI.  
+- 🔍 **Explorer**: Currently working on data visualization projects and looking forward to diving deeper into machine learning and artificial intelligence.  
 
-## 🚀 Skills & Experience  
-- 🛠️ Hands-on experience in designing and deploying **Machine Learning models** for real-world applications.  
-- 📊 Proficient in Python, TensorFlow, and tools for data analysis and visualization.  
-- 🌐 Strong problem-solving and analytical skills with a focus on impactful innovation.  
+## 💻 Programming Languages  
 
-## 🌱 Currently Exploring  
-- Advanced concepts in **Deep Learning** and **AI-driven systems**.  
-- Exploring ethical dimensions and future applications of Artificial Intelligence.  
+**Most Used Languages:**  
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go)](https://skillicons.dev)  
+
+**Other Languages I Use:**  
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c)](https://skillicons.dev)  
+
+## 🛠️ Tools and Frameworks  
+
+**For Web Development:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap)](https://skillicons.dev)  
+
+**For Data Analytics and AI:**  
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,numpy,streamlit)](https://skillicons.dev)  
+<div style="display: flex; flex-direction: row;">
+    <a href="https://skillicons.dev" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    </a>
+    <a href="https://skillicons.dev" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+    </a>
+    <a href="https://skillicons.dev" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+    </a>
+</div>  
+
+## 📊 GitHub Stats  
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=millkywaay&show_icons=true&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=millkywaay&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millkywaay&layout=compact&theme=radical)  
 
 ## 💬 Let’s Collaborate!  
 I’m open to exciting collaborations with individuals and teams who share my passion for technology and creativity. Whether it’s a cutting-edge project or just a brainstorming session, let’s connect and make something extraordinary!  
@@ -22,8 +49,6 @@ I’m open to exciting collaborations with individuals and teams who share my pa
 📫 **Reach Me**:  
 - 📧 Email: [YourEmail@example.com](mailto:nkoirun10@gmail.com) 
 
-## 🎯 Fun Facts About Me  
-- 🚀 I thrive on challenges and love turning complex problems into elegant solutions.  
----  
+---
 
 ✨ **"Driven by curiosity, powered by innovation."** ✨  
