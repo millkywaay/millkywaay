@@ -7,14 +7,6 @@ Hi there! I'm **@millkywaay**, a tech enthusiast with a passion for learning and
 - 🌱 **Learner**: Always curious and learning about cutting-edge technologies, including Machine Learning and AI.  
 - 🔍 **Explorer**: Currently working on data visualization projects and looking forward to diving deeper into machine learning and artificial intelligence.  
 
-## 💻 Programming Languages  
-
-**Most Used Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go)](https://skillicons.dev)  
-
-**Other Languages I Use:**  
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c)](https://skillicons.dev)  
-
 ## 🛠️ Tools and Frameworks  
 
 **For Data Analytics and AI:**  
@@ -39,7 +31,7 @@ Hi there! I'm **@millkywaay**, a tech enthusiast with a passion for learning and
 I’m open to exciting collaborations with individuals and teams who share my passion for technology and creativity. Whether it’s a cutting-edge project or just a brainstorming session, let’s connect and make something extraordinary!  
 
 📫 **Reach Me**:  
-- 📧 Email: [YourEmail@example.com](mailto:nkoirun10@gmail.com) 
+- 📧 Email: [nkoirun10@gmail.com](mailto:nkoirun10@gmail.com) 
 
 ---
 
