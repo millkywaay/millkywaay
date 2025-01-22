@@ -17,9 +17,6 @@ Hi there! I'm **@millkywaay**, a tech enthusiast with a passion for learning and
 
 ## 🛠️ Tools and Frameworks  
 
-**For Web Development:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap)](https://skillicons.dev)  
-
 **For Data Analytics and AI:**  
 [![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,numpy,streamlit)](https://skillicons.dev)  
 <div style="display: flex; flex-direction: row;">
@@ -37,11 +34,6 @@ Hi there! I'm **@millkywaay**, a tech enthusiast with a passion for learning and
     </a>
 </div>  
 
-## 📊 GitHub Stats  
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=millkywaay&show_icons=true&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=millkywaay&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millkywaay&layout=compact&theme=radical)  
 
 ## 💬 Let’s Collaborate!  
 I’m open to exciting collaborations with individuals and teams who share my passion for technology and creativity. Whether it’s a cutting-edge project or just a brainstorming session, let’s connect and make something extraordinary!  
