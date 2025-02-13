@@ -26,6 +26,14 @@ Hi there! I'm **@millkywaay**, a tech enthusiast with a passion for learning and
     </a>
 </div>  
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/millkywaay">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=millkywaay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=millkywaay&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ## 💬 Let’s Collaborate!  
 I’m open to exciting collaborations with individuals and teams who share my passion for technology and creativity. Whether it’s a cutting-edge project or just a brainstorming session, let’s connect and make something extraordinary!  
