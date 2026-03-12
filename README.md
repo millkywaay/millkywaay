@@ -11,7 +11,7 @@
 
 ### `< Fullstack Developer · AI Engineer · Data Scientist />`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%93%8A;Fullstack+%2B+ML+%2B+Deep+Learning+%F0%9F%9A%80;AIA+Data+Science+Certified+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
